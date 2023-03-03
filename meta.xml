@@ -1,0 +1,10 @@
+<meta>
+    <info author="Senn4" version="1.0.0" name="Inventory" />
+
+    <!-- Source -->
+    <script src="src/core/config/config.lua" type="shared" cache="false"/>
+    <script src="src/utils/utils.lua" type="shared" cache="false"/>
+    <script src="src/core/client/main.lua" type="client" cache="false"/>
+    <script src="src/core/client/listener.lua" type="client" cache="false"/>
+    
+</meta>
