@@ -4,10 +4,10 @@
 pode mudar o catalogo, como adicionar e remover itens.
 
 # Task List:
-[X] - Criar uma array para o catalogo.
-[X] - Função para autenticação.
-[X] - Função para Adicionar itens do catalogo.
-[X] - Adicionar uma Memory Leak.
+- [X] Criar uma array para o catalogo.
+- [X] Função para autenticação.
+- [X] Função para Adicionar itens do catalogo.
+- [X] Adicionar uma Memory Leak.
 
 # Commands All
 - /clog - Logar como administrador.
