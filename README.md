@@ -11,7 +11,7 @@ pode mudar o catalogo, como adicionar e remover itens.
 
 # Commands All
 - /clog - Logar como administrador.
-- /clogout - Deslogar como administrador.
+- /clogout - Deslogar da conta de administrador.
 - /additem - Adicionar itens ao catalogo.
 - /remvitem - Remover itens do catalogo.
 - /listcatalog - Retorna o total de itens no catalogo.
